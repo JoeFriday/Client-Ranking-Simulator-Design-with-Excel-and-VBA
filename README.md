@@ -29,4 +29,6 @@ Test the calculator to do the validation.
 
 To clear the contents automatically once the calculation is completed, I record a marco named clear to remove all the contents in each cell. And asign macro to a button called CLEAR ALL for the convinience of users.
 
+# Video of running the calculator
+
 https://user-images.githubusercontent.com/72532551/105879744-8be7e980-5fd0-11eb-83d7-74db37b79e6e.mp4
