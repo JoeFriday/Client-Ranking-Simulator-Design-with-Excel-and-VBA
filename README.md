@@ -1,5 +1,5 @@
 # Project Purpose
-In this scenario, I designed a simulative calculator for immigrant applicants through the Express Entry system to assess their points. Using this calculator, we provided this access for our clients to calculate by themselves and saved hours to do the consultation.
+In this scenario, I designed a simulative calculator with Excel for applicants who immigrate via the Express Entry system. Using this calculator, our clients can calculate themselves and save hours for both of us to finish the consultation.
 
 # Background
 Express Entry is an online system that IRCC uses to manage applications for permanent residence from skilled workers. The Express Entry System ranks candidates in the pool using a points-based system called the Comprehensive Ranking System (CRS). IRCC will select the highest-ranking candidates from the pool and invite them to apply for permanent residence.
