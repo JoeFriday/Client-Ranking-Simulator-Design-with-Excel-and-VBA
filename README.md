@@ -8,7 +8,7 @@ Express Entry is an online system that IRCC uses to manage applications for perm
 This criteria includes four parts as following.
   A. Core / human capital factors
   B. Spouse or common-law partner factors
-  c. Skill Transferability factors
+  C. Skill Transferability factors
   D. Additional points
  
 The pattern of the calculator is below.
