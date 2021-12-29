@@ -18,10 +18,10 @@ The interface of the calculator is below.
 There are sub-categories needed to fill under each factor and could calculate points based on different circumstences of each applicant.  
  
  # Points breakdown, section by section
-Since the system is comprehensive scoring, applicants would get extra credits in the transferability factor if they fulfill specific conditions on first official language, education level, Canadian or foreign work experience. On 27 Oct.2020, IRCC updated the criteria that applicants with good French language skills will require extra points in the last factors. Besides, the marital status of the applicant would affect the score on the human capital factors. 
+Since the system is comprehensive scoring, applicants would get extra credits in the transferability factor if they fulfill specific conditions on first official language, education level, Canadian or foreign work experience. On 27 Oct. 2020, IRCC updated the criteria that applicants with good French language skills will require extra points in the last factors. Besides, the marital status of the applicant would affect the score on the human capital factors. 
 
 # Validation
-Test the calculator to do the validation.
+Run the calculator to validate.
 
 ![510c6d1745eb7b755c904b916d36c3a](https://user-images.githubusercontent.com/72532551/105791826-a11f3280-5f54-11eb-9e32-62b004ce1b49.png)
 
