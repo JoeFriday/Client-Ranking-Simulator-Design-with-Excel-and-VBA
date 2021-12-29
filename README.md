@@ -11,7 +11,7 @@ This criteria includes four parts as following.
   C. Skill Transferability factors
   D. Additional points
  
-The pattern of the calculator is below.
+The interface of the calculator is below.
  
 ![2addf6a3a0e64e8328be2325aca7a47](https://user-images.githubusercontent.com/72532551/105791561-543b5c00-5f54-11eb-8c9e-409e296f1ebd.png)
  
